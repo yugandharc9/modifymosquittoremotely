@@ -1,7 +1,5 @@
-# PrimeMQ
-PrimeMQ is MQTT cloud web service built in Django,Fabric.
-
-We are sharing how to modify hmosquitto configurations on remote servers distributedly.
+# ModifyMosquittoRemotely
+ModifyMosquittoRemotely is how to modify mosquitto configurations on remote servers distributedly through web appliation.
 
 Prerequisites:
 Django
