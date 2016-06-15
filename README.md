@@ -2,6 +2,8 @@
 ModifyMosquittoRemotely is how to modify mosquitto configurations on remote servers distributedly through web appliation.
 
 Prerequisites:
-Django
-Fabric
-Celery
+Python<br>
+Django<br>
+Fabric<br>
+Celery<br>
+Mosquitto<br>
